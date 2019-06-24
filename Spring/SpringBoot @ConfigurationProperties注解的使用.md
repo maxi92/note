@@ -149,3 +149,4 @@ public String toString() {
  ![1556501264849](1556501264849.png)
 
  如果一个JavaBean中大量属性值要和配置文件进行映射，可以使用@ConfigurationProperties；
+
